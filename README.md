@@ -61,9 +61,3 @@ Best model achieved:
 MAE: *5138636.041684616*
 
 ---
-
-## How to Run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook
