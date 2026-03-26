@@ -48,9 +48,11 @@ Files included:
 XGBoost achieved the best performance, showing strong ability to capture complex patterns in tourism spending.
 
 ## How to Run
+```bash
 git clone https://github.com/Gladne/Tourism-price-prediction---Zindi.git
 cd Tourism-price-prediction---Zindi
 pip install -r requirements.txt
-
+```
 Run the notebook:
-Tourism_price_prediction.ipynb
+
+```Tourism_price_prediction.ipynb```
